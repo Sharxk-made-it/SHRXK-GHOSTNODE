@@ -1,0 +1,1 @@
+"""GHOSTNODE interface (PySide6)."""
