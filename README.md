@@ -1,3 +1,4 @@
+![GHOSTNODE](portada.png)
 # GHOSTNODE
 **Portable Digital Operations Toolkit** · creator: **SHRXK**
 
