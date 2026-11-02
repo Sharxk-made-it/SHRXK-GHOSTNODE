@@ -1,4 +1,4 @@
-![GHOSTNODE](Interfaz ciberpunk GHOSTNODE DedSec.png)
+![GHOSTNODE](portada.png)
 # GHOSTNODE
 **Portable Digital Operations Toolkit** · creator: **SHRXK**
 
